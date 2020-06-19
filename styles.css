@@ -1,0 +1,58 @@
+body{
+}
+
+/* Navbar  */
+
+.navbar {
+  padding: 1rem;
+  letter-spacing: 1px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/* heading */
+
+h1{
+  margin-top: 2%;
+  margin-left: 1.5%;
+  text-align: center;
+}
+
+/* Event cards */
+
+.container {
+  margin-top: 8%;
+  max-width: 90%;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.event-img{
+  height: 150px;
+  width: 150px;
+}
+
+p{
+  margin-top: 4%;
+  line-height: 1.5;
+  font-family: "Montserrat";
+}
