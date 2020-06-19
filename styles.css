@@ -36,6 +36,7 @@ h1{
 .container {
   margin-top: 8%;
   max-width: 90%;
+  text-align: center;
 }
 
 .pricing-header {
